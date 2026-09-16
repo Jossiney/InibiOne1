@@ -1,0 +1,6 @@
+{
+  "name": "Inibe One | O Recomeço da Sua Leveza e Confiança",
+  "description": "Fórmula botânica premium de wellness feminino para saciedade inteligente, energia constante e retomada da autoestima.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
