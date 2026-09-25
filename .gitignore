@@ -6,3 +6,6 @@ coverage/
 *.log
 .env*
 !.env.example
+
+# Prospector CRM (dados locais)
+prospector/*.db
