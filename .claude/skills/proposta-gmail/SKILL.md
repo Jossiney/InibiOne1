@@ -42,6 +42,7 @@ Revise o e-mail pronto contra CADA item; se falhar em qualquer um, reescreva ant
 
 ## Envio
 
+- Modo **gerar** (`envio.modo = "gerar"`): escrever a proposta pronta (assunto + corpo) num arquivo `prospector/propostas/[slug].md`, com link de compose do Gmail e link `https://wa.me/[whatsapp do lead]?text=...` para o usuário revisar e enviar ele mesmo. Nada é enviado automaticamente.
 - Modo **rascunho** (padrão): criar via MCP do Gmail do Antigravity (ferramenta de criar rascunho) ou pelo link de compose do Gmail (`https://mail.google.com/mail/?view=cm&fs=1&to=...&su=...&body=...`) com destinatário, assunto e corpo prontos. Avisar o usuário para revisar antes de enviar.
 - Modo **enviar direto**: se o conector não suportar envio, abrir o Gmail web via o MCP de navegador (Playwright), ou criar o rascunho e avisar.
 - Nunca enviar para lead sem e-mail confirmado; nesses casos, sugerir contato via WhatsApp com a mesma mensagem adaptada.

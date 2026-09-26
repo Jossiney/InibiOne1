@@ -1,6 +1,6 @@
 ---
 name: deploy-hostgator
-description: Esta skill deve ser usada ao publicar páginas na hospedagem HostGator — upload via script local automático, FTP ou cPanel, criação de pastas por cliente, verificação da URL pública e HTTPS. Acione quando o usuário disser "publicar", "subir o site", "colocar no ar", "deploy", "hostgator" ou pedir para publicar (skill deploy-hostgator).
+description: (Só se hospedagem.tipo for "hostgator"; com Vercel use deploy-vercel.) Esta skill deve ser usada ao publicar páginas na hospedagem HostGator — upload via script local automático, FTP ou cPanel, criação de pastas por cliente, verificação da URL pública e HTTPS. Acione quando o usuário disser "publicar", "subir o site", "colocar no ar", "deploy", "hostgator" ou pedir para publicar (skill deploy-hostgator).
 ---
 
 # Deploy na HostGator
