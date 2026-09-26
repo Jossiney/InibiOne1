@@ -20,7 +20,7 @@
     "branchProducao": "main",
     "pastaLocal": "public/clientes",
     "pastaBase": "clientes",
-    "dominio": "",
+    "dominio": "inibi-one2.vercel.app",
     "vercelTime": "jossiney1"
   }
 }
