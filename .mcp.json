@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "prospector-crm": {
+      "command": "python3",
+      "args": [
+        ".claude/prospector/prospector-mcp.py",
+        "--pasta",
+        "prospector"
+      ]
+    },
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@playwright/mcp@latest",
+        "--headless",
+        "--executable-path",
+        "/opt/pw-browsers/chromium"
+      ]
+    }
+  }
+}

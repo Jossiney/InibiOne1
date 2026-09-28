@@ -1,0 +1,26 @@
+{
+  "assinatura": {
+    "nome": "Jossiney Leite de Sousa",
+    "apresentacao": "Designer de páginas de alta conversão",
+    "whatsapp": "5511970689866"
+  },
+  "prospeccao": {
+    "nichos": [
+      "nutricionistas"
+    ],
+    "cidade": "São Paulo",
+    "leadsPorBusca": 10
+  },
+  "envio": {
+    "modo": "gerar"
+  },
+  "hospedagem": {
+    "tipo": "vercel",
+    "repositorio": "Jossiney/InibiOne1",
+    "branchProducao": "main",
+    "pastaLocal": "public/clientes",
+    "pastaBase": "clientes",
+    "dominio": "inibi-one2.vercel.app",
+    "vercelTime": "jossiney1"
+  }
+}
